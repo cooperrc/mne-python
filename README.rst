@@ -11,7 +11,7 @@ ECoG, and more. It includes modules for data input/output, preprocessing,
 visualization, source estimation, time-frequency analysis, connectivity analysis,
 machine learning, statistics, and more.
 
-Its an awesome set of tools made by cool people. 
+Its an awesome set of tools made by cool people. Its the best!
 
 
 Documentation
